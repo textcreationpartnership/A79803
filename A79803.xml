@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cities loyalty display'd or the four famous and renowned fabricks in the city of London exactly described in their several representations, what they are, with their private meanings and perfect actions at the day of publick view, which is not yet discovered. Together with a true relation of that high and stately cedar erected in the Strand, bearing five crowns, a royal streamer, three lanthorns, and a rich garland. Published for both cities and countreys satisfaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79803</idno>
+            <idno type="STC">Wing C4330</idno>
+            <idno type="STC">Thomason E1087_12</idno>
+            <idno type="STC">ESTC R208547</idno>
+            <idno type="EEBO-CITATION">99867491</idno>
+            <idno type="PROQUEST">99867491</idno>
+            <idno type="VID">169379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169379)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1087[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cities loyalty display'd or the four famous and renowned fabricks in the city of London exactly described in their several representations, what they are, with their private meanings and perfect actions at the day of publick view, which is not yet discovered. Together with a true relation of that high and stately cedar erected in the Strand, bearing five crowns, a royal streamer, three lanthorns, and a rich garland. Published for both cities and countreys satisfaction.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Apr. 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monuments --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  Social life and customs --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169379:1" rendition="simple:additions"/>
+            <p>THE Cities Loyalty Diſplay'd: OR THE Four Famous and Renowned FABRICKS IN THE CITY of <hi>LONDON</hi> Exactly deſcribed in their ſeveral Repre<g ref="char:EOLhyphen"/>ſentations, what they are, with their private meanings and perfect Actions at the day of publick View, which is not yet diſcovered.</p>
+            <p>
+               <hi>Togther</hi> With a true Relation of that high and ſtately Cedar erected in the <hi>Strand,</hi> bear<g ref="char:EOLhyphen"/>ing five Crowns, a Royal Streamer, three Lanthorns, and a rich Garland.</p>
+            <p>Publiſhed for both Cities and Countreys Satisfaction.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169379:2"/>
+            <pb n="1" facs="tcp:169379:2"/>
+            <head>THE Cities Loyalty Diſplay'd.</head>
+            <opener>
+               <salute>Right worthy and thrice renowned Citizens,</salute>
+            </opener>
+            <p>THat which is done at Noon-day, and not in a corner, is impoſſible to be kept private from the eyes of the world, no more can your Loyal Actions and faithfull true Al<g ref="char:EOLhyphen"/>legiance, conceal it ſelf under a buſhel, but rather the more appear in ſplendid luſtre and glory, like an occidental Starre, ſtill every day more than another, which hath evidently appear'd ſince the bleſſed Reſtauration of his ſacred Majeſty.</p>
+            <p>Therefore 'tis to you (moſt prudent Senators) the very glo<g ref="char:EOLhyphen"/>ry of our <hi>Engliſh</hi> Nation, which have caus'd me to ſet pen to pa<g ref="char:EOLhyphen"/>per, to declare theſe your late admired actions againſt the bleſſed Coronation of our glorious ſecond <hi>Solomon</hi> King <hi>CHARLES</hi> the Second, which will ring like Muſick in the ears of all Loyal Subjects thorowout every County of <hi>England,</hi> and other the Kings Dominions.</p>
+            <p>And thus to proceed, I ſhall inſiſt upon the four rich and coſtly Fabricks erected in <hi>Leaden-Hall-ſtreet, Cornhill, Cheapſide</hi> and <hi>Fleet-ſtreet,</hi> with their repreſentations, rarities and glories, to<g ref="char:EOLhyphen"/>gether with that high and ſtately Cedar, the admired May-pole erected in the Strand, whoſe height exceedeth or at leaſt equalli<g ref="char:EOLhyphen"/>zeth with the tops of any Spiers in the City of <hi>London,</hi> or I might ſay as well in <hi>England,</hi> being the admiration of Standards, the glory of Summer, the wonder of other Nations, and a Mirrour of the World, eſpecially for the Dignities, Riches and coſt<g ref="char:EOLhyphen"/>ly Ornaments beſtowed upon it. I ſhall not conclude with few lines.</p>
+            <p>But to begin with <hi>Leaden-Hall-ſtreet,</hi> that Fabrick is built near eighty Foothigh, with four ſtately Pillars before, two above two,
+<pb n="2" facs="tcp:169379:3"/>in Diameter, they are in circumference about eleven Foot, the Statue of King <hi>James</hi> on the right hand with Globe and Scepter, and on the left hand King <hi>Charles</hi> the Firſt with the Globe and Sword, himſelf drawn in armour; in the middle above them two, ſix yards higher is placed King <hi>Charles</hi> the Second in a royal Robe, and the Crown upon his Head, a Globe in the one hand, and a Sword in the other; behind his back is artificially drawn with a penſil in rich and coſtly colours the Royal Oak curiouſly ſhaded, that at ſmall diſtance no mortal eye but would imagine it to be a living man in the boughes of a natural Oaken Tree; above which is two Angels holding a Crown over his head, and above that the Arms, Lion and Unicorn as big as Horſes, with famous Belconies at bottom to make learned Speeches to him, and this doth preſent the Royal Oak.</p>
+            <p>In <hi>Cornhill,</hi> adjacent to the <hi>Royall Exchange,</hi> is the next built, near upon the ſame height, and highly archt under much like un<g ref="char:EOLhyphen"/>to a Gate, and in the front place eight high and ſtately Pillars, coloured like unto Marble, and placed two above two in latitude and longitude, like unto the former. About the height of the firſt four Pillars, is a great and ſpacious roof, artificially wrought in rich and carved work; it reſembles the leads of a Caſtle, upon which is placed four white Chairs, that is to ſay, two over one ſide of the Gate, two over the other, in which ſitteth four Kings in long robes, and Crowns upon their heads, but Globes and Scep<g ref="char:EOLhyphen"/>ters excepted; theſe repreſent the four Kingdomes, and give homage to his Majeſty with low bowes and congies, when he paſ<g ref="char:EOLhyphen"/>ſeth by. Above this three degrees higher is erected a ſtately Tur<g ref="char:EOLhyphen"/>ret, or ſuch like, containing beautifull rooms within; it opens with twelve caſements, through which appeare twelve Angels, clapping their wings, and rejoycing. Upon that is placed a great and mighty ſtatue of a man, ſtanding upright on the very top, holding the world upon his ſhoulders. Under the Gate is four Statues more, that is, <hi>Charles</hi> the firſt, <hi>Charles</hi> the ſecond, Duke of <hi>Yorke,</hi> and Duke of <hi>Gloceſter,</hi> and over their heads are two Belconies, out of whom are made two learned ſpeeches, and this will preſent the ruines of times.</p>
+            <p>In <hi>Cheapſide</hi> is the third, though ſomething lower than the for<g ref="char:EOLhyphen"/>mer, it is built four ſquare half way to the top, and the reſidue as
+<pb n="3" facs="tcp:169379:3"/>round as an Egge, and that is laid all over with a covering, but to the eye of man it ſeems to be no other than Lead, the reſidue is beautified with rich and coſtly colours, ſupported with eight high and ſtately Pillars, two above two, like unto the former. There is about the middle a moſt famous gilded room, out of which aſcend<g ref="char:EOLhyphen"/>eth a ſplendid train of Goddeſſes, moſt lovely to behold, and on the top is the Oracle of <hi>Apollo,</hi> two Statues are a little lower, hold<g ref="char:EOLhyphen"/>ing in their hands Launces, and what is on the one ſide the Fabrick, the ſame is on the other. A learned ſpeech is made at the bot<g ref="char:EOLhyphen"/>tom, and this doth repreſent the Temple of <hi>Diana.</hi>
+            </p>
+            <p>
+               <hi>Cheapſide</hi>-Conduits are all new furbiſhed, and new Pipes pre<g ref="char:EOLhyphen"/>pared for the running of Wine.</p>
+            <p>
+               <hi>Ludgate</hi> is richly gilded, and the Effigies of the Kings and Queen <hi>Elizabe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> moſt rarely beautified.</p>
+            <p>In <hi>Flee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtreet</hi> is the fourth, moſt high and ſtately, ſomething in height exceeding the other three, it is ſupported in the front place with eight large Pillars, that is to ſay, of a marble colour, and placed like unto the former, two above two, which is four on the one ſide, and four on the other ſide of the Gate. Towards the middle of theſe Pillars, this coſtly Fabrick is built broad and ſpa<g ref="char:EOLhyphen"/>cious, with rich and carved work, beautified and adorned with various ſorts of colours, with the Kings Arms richly gilded upon it. Above that is built four Stories higher a renowned piece of workmanſhip, much like unto a Tower, or the top of a Caſtle, upon which ſtandeth a very great Statue, that is to ſay one main top of all, it being ſo high for to behold it at any great diſtance. It ſeems like a blazing Comer glittering in the Air, it hath ſeverall rooms divided in it, out of every room proceedeth a tragedy, or at leaſt doth reſemble it, great Orations is made then, and the gar<g ref="char:EOLhyphen"/>den of plenty is repreſented. And as for the glories of theſe re<g ref="char:EOLhyphen"/>nowned Fabricks, prepared againſt the bleſſed Coronation, the fame thereof is ſounded throughout all <hi>Europe;</hi> for I myſelf have ſeen a <hi>French</hi> Limner drawing the figures of them to ſend to <hi>France,</hi> ſo that I perceive we <hi>Engliſh</hi> have not altogether patterns from <hi>France,</hi> they take ſome from us, and they are even ſuch, that I believe few in this age did ever <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee the like.</p>
+            <p>So loyal, loving, and liberal, are our <hi>Engliſh</hi> Nation to haſten the buſineſs, for the honour of the Nation, and the triumph of our
+<pb n="4" facs="tcp:169379:4"/>moſt glorious King, that indeed all <hi>Europe</hi> do ſtand and even ad<g ref="char:EOLhyphen"/>mire it.</p>
+            <p>Now you have the famous Fabricks within the City deſcribed to you with the meanings thereof; let me declare to you the manner in generall of that ſtately Cedar erected in the Strand 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4. foot high, commonly called the Maypole, upon the coſt of the Pariſh<g ref="char:EOLhyphen"/>ners there adjacent, and the gracious conſent of his Sacred Ma<g ref="char:EOLhyphen"/>jeſty with the Illuſtrious Prince the Duke of <hi>York.</hi>
+            </p>
+            <p>This Tree was a moſt choice and remarkable Piece, 'twas made below Bridg, and brought in two parts up to <hi>Scotland</hi>-yard, near the Kings Palace, and from thence it was conveyed <hi>April</hi> the 14<hi rend="sup">th</hi> to the Strand to be erected.</p>
+            <p>It was brought with a Streamer flouriſhing before it, Drums beating all the way, and other ſorts of Muſick, it was ſuppoſed to be ſo long, that Landmen (as Carpenters) could not poſſibly raiſe it; Prince <hi>James</hi> the Duke of <hi>York,</hi> Lord high Admirall of <hi>England,</hi> commanded twelve Seamen off a Boord, to come and officiate the buſineſs, whereupon they came and brought their Ca<g ref="char:EOLhyphen"/>bles, Pullies, and other tacklins, with ſix great Anchors; after this was brought three Crowns, bore by three men bare-headed, and a Streamer diſplaying all the way before them, Drums bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing, and other Muſick playing: numerous multitudes of people thronging the ſtreets, with great ſhouts and acclamations all day long.</p>
+            <p>The Maypole then being joynted together, and hoopt about with bands of Iron, the Crown and Vane with the Kings Armes richly gilded, was placed on the head of it, a large top like a Bel<g ref="char:EOLhyphen"/>cony was about the middle of it. This being done, the Trumpets did found, and in four hours ſpace it was advanced upright, after which being eſtabliſhed faſt in the ground, ſix Drums did beat, and the Trumpets did ſound again, great ſhouts and acclamations the people gave, that it did ring throughout all the whole Strand; after that came a Morice Dance finely deckt, with purple Scarfs, in their half-ſhirts, with a Taber and Pipe the antient Muſick, and Danced round about the Maypole, after that Danced the rounds of their Liberty. Upon the top of this famous Standard, is like<g ref="char:EOLhyphen"/>wiſe ſet up a royal Purple Streamer, about the middle of it, is pla<g ref="char:EOLhyphen"/>ced four Crowns more, with the Kings Arms likewiſe; there is
+<pb n="5" facs="tcp:169379:4"/>alſo a Garland ſet upon it of various colours, of delicate rich fa<g ref="char:EOLhyphen"/>vours, under which is to be placed three great Lanthorns, to re<g ref="char:EOLhyphen"/>main for three honours; that is, one for Prince <hi>James</hi> Duke of <hi>York,</hi> Lord High Admirall of <hi>England;</hi> the other for the Vice Admirall; and the third for the Rear Admirall: theſe are to give light in dark nights, and to continue ſo as long as the Pole ſtands, which will be a perpetual honour for Seamen; it is placed as near hand as they could gueſs, in the very ſame pit where the former ſtood, but far more glorious, bigger and higher, than ever any one that ſtood before it; and the Seamen themſelves do confeſs, that it could not be built higher, nor there is not ſuch a one in <hi>Europe</hi> beſide, which highly doth pleaſe his Majeſty, and the Illuſtrious Prince Duke of <hi>York;</hi> little children did much rejoyce, and anti<g ref="char:EOLhyphen"/>ent people did clap their hands, ſaying, golden dayes began to appear. I queſtion not but 'twill ring like melodious Muſicke throughout every County in <hi>England,</hi> when they read this Story, being exactly pen'd; let this ſatisfie for the glories of <hi>London,</hi> that other Loyal Subjects may read what we here do ſee.</p>
+            <closer>So God preſerve the King.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
